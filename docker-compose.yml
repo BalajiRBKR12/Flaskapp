@@ -22,7 +22,7 @@ services:
       - "80:80"
     depends_on:
       - web
-  volumes:
+volumes:
     db_data:
 secrets:
   db_password:
