@@ -15,7 +15,7 @@ This project is a Flask-based web application that serves as a microservice for 
 
 - Docker
 - Docker Compose
-- Python 3.14
+- Python 3.13
 - GitHub account (for CI/CD)
 
 ### Project Setup
